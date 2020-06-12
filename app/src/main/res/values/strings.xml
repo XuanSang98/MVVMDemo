@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="title_text_id">Id</string>
+    <string name="title_text_name">Name</string>
+    <string name="title_text_fullname">Full name</string>
+    <string name="title_text_private">Private</string>
+</resources>
